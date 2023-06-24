@@ -2,9 +2,9 @@
 // Obter o valor do parâmetro "id" enviado via POST
 $id = $_POST["id"];
 
-$host = "localhost";
-$username = "root";
-$password = "";
+$host = "web-conc.ct9g53misjqm.sa-east-1.rds.amazonaws.com";
+$username = "emanuel";
+$password = "ytbVJEmGa5s3FUhyDQtj";
 $database = "db_conce";
 
 // Conexão com o banco de dados
