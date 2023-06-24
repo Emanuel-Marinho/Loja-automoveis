@@ -1,8 +1,8 @@
 <?php
 // Informações de conexão com o banco de dados
-$host = "localhost";
-$username = "root";
-$password = "";
+$host = "web-conc.ct9g53misjqm.sa-east-1.rds.amazonaws.com";
+$username = "emanuel";
+$password = "ytbVJEmGa5s3FUhyDQtj";
 $database = "db_conce";
 
 // Conexão com o banco de dados
